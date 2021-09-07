@@ -1,0 +1,22 @@
+{
+  "name": "victoranderson",
+  "version": "1.0.0",
+  "description": "First application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor07anderson/victoranderson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor07anderson/victoranderson/issues"
+  },
+  "homepage": "https://github.com/victor07anderson/victoranderson#readme",
+  "dependencies": {
+    "firebase": "^9.0.1"
+  }
+}
